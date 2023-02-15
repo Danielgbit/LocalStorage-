@@ -1,0 +1,39 @@
+
+[
+
+        {    
+            "id": 4,    
+            "categoria": "Corte",    
+            "tipo": "Clasico",    
+            "precio": 14.00,    
+            "cantidad": 0  },  
+                
+                
+        {    
+            "id": 7,    
+            "categoria": "Corte",    
+            "tipo": "Premium",    
+            "precio": 20.00,    
+            "cantidad": 0  },  
+            
+            
+        {    
+    
+            "id": 2,    
+            "categoria": "Barba",    
+            "tipo": "Clasica",    
+            "precio": 12.00,    
+            "cantidad": 0  },  
+            
+            
+        {    
+    
+            "id": 9,    
+            "categoria": "SpaFacial",    
+            "tipo": "Premium",    
+            "precio": 26.00,    
+            "cantidad": 0  
+            
+        }
+
+]
